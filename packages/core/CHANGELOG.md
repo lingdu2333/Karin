@@ -1,5 +1,54 @@
 # 更新日志
 
+## [1.4.0](https://github.com/lingdu2333/Karin/compare/core-v1.3.9...core-v1.4.0) (2025-02-14)
+
+
+### ✨ Features
+
+* 插件市场 ([b9b0504](https://github.com/lingdu2333/Karin/commit/b9b050426ebef23cda064051f24eafa0c84f277b))
+* 新增web沙盒 插件管理 插件市场 插件配置 框架配置 ([#251](https://github.com/lingdu2333/Karin/issues/251)) ([26483ae](https://github.com/lingdu2333/Karin/commit/26483aedd0cbe1f99bce98d82cc7483ca281c4d2))
+
+
+### 🐛 Bug Fixes
+
+* ... ([3693919](https://github.com/lingdu2333/Karin/commit/3693919f5c7c1e55c59cf71a363b613606838fe3))
+* avatar dir ([04f370f](https://github.com/lingdu2333/Karin/commit/04f370f87f704e2df53b65d54387abde5d23738c))
+* components ([edeccdc](https://github.com/lingdu2333/Karin/commit/edeccdc2d43797086c890cec0d0a8ef18775aef8))
+* express types ([9c97066](https://github.com/lingdu2333/Karin/commit/9c97066b25f57046ef78fc7e8829f1fdd7bf78ae))
+* fix [#253](https://github.com/lingdu2333/Karin/issues/253) ([c6c4d54](https://github.com/lingdu2333/Karin/commit/c6c4d54c15ac09ecf8f0e5afbfbee1073626b777))
+* fix [#261](https://github.com/lingdu2333/Karin/issues/261) ([440c635](https://github.com/lingdu2333/Karin/commit/440c63535c108d31fea5d25be381aab82b7b966e))
+* pnpm 10 ([0951485](https://github.com/lingdu2333/Karin/commit/0951485209c228e77441994c10ae0d0f4a4cf6da))
+* pnpm 10 (原谅我 push错了 ([1b06936](https://github.com/lingdu2333/Karin/commit/1b06936b15864cb6ac61ab279448a86c630f23e4))
+* pnpm10与pnpm 9冲突 ([c2e7d51](https://github.com/lingdu2333/Karin/commit/c2e7d5129e0ff122ddce474e359f402221028740))
+* web config ([3ed39a0](https://github.com/lingdu2333/Karin/commit/3ed39a095978cca055415c67e1fae21388df3c09))
+* web plugins ([cf0d0e0](https://github.com/lingdu2333/Karin/commit/cf0d0e02d0025cdc7dce124820076bfc0204b01b))
+* web.config.mjs ([38d3417](https://github.com/lingdu2333/Karin/commit/38d34172931fdeb3de8047971aac026b00cabf46))
+* webui login ([79f4d52](https://github.com/lingdu2333/Karin/commit/79f4d52a97670454dc983953fa2c9b7530e75f19))
+* webui login ([#257](https://github.com/lingdu2333/Karin/issues/257)) ([31263c8](https://github.com/lingdu2333/Karin/commit/31263c850325bf2c6009ffc27b113100dda2f004))
+* web页面的请求不走缓存 ([5055eab](https://github.com/lingdu2333/Karin/commit/5055eab032bf786d471ca88fbd5c685982e3c4e2))
+* 修复Router导出 ([c4304de](https://github.com/lingdu2333/Karin/commit/c4304de57f63bdd67252d379bc96deb2da3e8c7b))
+* 修复组件渲染 ([951e4b8](https://github.com/lingdu2333/Karin/commit/951e4b8628eef75ef62141b8fbbab05492dec5ed))
+* 增加单选框、复选框组件，修正组件渲染错误 ([edeccdc](https://github.com/lingdu2333/Karin/commit/edeccdc2d43797086c890cec0d0a8ef18775aef8))
+* 怎么有适配器结构体都不传 ([cc42593](https://github.com/lingdu2333/Karin/commit/cc425930d61897a292adadb63cb4b261c14941cd))
+* 抽象的EventEmitter ([3c5402b](https://github.com/lingdu2333/Karin/commit/3c5402b46ae23c49c76fddb101748d298a384538))
+* 插件列表缓存 ([009ec94](https://github.com/lingdu2333/Karin/commit/009ec947b29578f856b1bc29cd756ba369e92e6c))
+* 组件类型 ([e83ec8b](https://github.com/lingdu2333/Karin/commit/e83ec8b2908ea8df58fb702c6153664623f305ce))
+* 鉴权失败打印auth ([a0a4df6](https://github.com/lingdu2333/Karin/commit/a0a4df6d2300f7ee08326a309bfcb38ae674f30d))
+
+
+### 🎫 Chores
+
+* release main ([#250](https://github.com/lingdu2333/Karin/issues/250)) ([b51de2b](https://github.com/lingdu2333/Karin/commit/b51de2beee7fbf407d019db82ae1a20976fd1507))
+* release main ([#252](https://github.com/lingdu2333/Karin/issues/252)) ([de6810f](https://github.com/lingdu2333/Karin/commit/de6810feccfb41bdd7d12754e44d93992d109c95))
+* release main ([#254](https://github.com/lingdu2333/Karin/issues/254)) ([264c0aa](https://github.com/lingdu2333/Karin/commit/264c0aa2ddeb6a8be1d6385e8680b548d8447d64))
+* release main ([#255](https://github.com/lingdu2333/Karin/issues/255)) ([cd68a98](https://github.com/lingdu2333/Karin/commit/cd68a98fd2a3b2ffc9457cae44f9941e2e2e110f))
+* release main ([#256](https://github.com/lingdu2333/Karin/issues/256)) ([6aacdc3](https://github.com/lingdu2333/Karin/commit/6aacdc34e9fab343b6ff7b9e4a36352ff513bd50))
+* release main ([#258](https://github.com/lingdu2333/Karin/issues/258)) ([cae0dae](https://github.com/lingdu2333/Karin/commit/cae0daeb114a8d84ccc57def252dfb440d4ae799))
+* release main ([#262](https://github.com/lingdu2333/Karin/issues/262)) ([cb4b713](https://github.com/lingdu2333/Karin/commit/cb4b7130cce481ca0cb0b54a0764c0e83b76c432))
+* release main ([#263](https://github.com/lingdu2333/Karin/issues/263)) ([944ddc1](https://github.com/lingdu2333/Karin/commit/944ddc13e7aac258fbff821bee7a8bf47b4c4e66))
+* release main ([#265](https://github.com/lingdu2333/Karin/issues/265)) ([5b4408f](https://github.com/lingdu2333/Karin/commit/5b4408fe4e9b2c5958a97dbeefd4be0b29516655))
+* release main ([#266](https://github.com/lingdu2333/Karin/issues/266)) ([e1275ae](https://github.com/lingdu2333/Karin/commit/e1275ae84fb91aae29c291c36a2e949a14a657c6))
+
 ## [1.3.9](https://github.com/KarinJS/Karin/compare/core-v1.3.8...core-v1.3.9) (2025-02-14)
 
 
