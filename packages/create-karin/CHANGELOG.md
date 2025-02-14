@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.5](https://github.com/lingdu2333/Karin/compare/create-karin-v1.0.4...create-karin-v1.0.5) (2025-02-14)
+
+
+### 🐛 Bug Fixes
+
+* **create-karin:** pnpm 10 ([6f9da1e](https://github.com/lingdu2333/Karin/commit/6f9da1e8efaf5a2b7895f886012e3bdb0eb0d058))
+* pnpm10与pnpm 9冲突 ([c2e7d51](https://github.com/lingdu2333/Karin/commit/c2e7d5129e0ff122ddce474e359f402221028740))
+
+
+### 🎫 Chores
+
+* release main ([#250](https://github.com/lingdu2333/Karin/issues/250)) ([b51de2b](https://github.com/lingdu2333/Karin/commit/b51de2beee7fbf407d019db82ae1a20976fd1507))
+* release main ([#256](https://github.com/lingdu2333/Karin/issues/256)) ([6aacdc3](https://github.com/lingdu2333/Karin/commit/6aacdc34e9fab343b6ff7b9e4a36352ff513bd50))
+
 ## [1.0.4](https://github.com/KarinJS/Karin/compare/create-karin-v1.0.3...create-karin-v1.0.4) (2025-02-11)
 
 

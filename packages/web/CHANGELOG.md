@@ -1,5 +1,50 @@
 # Changelog
 
+## [1.4.0](https://github.com/lingdu2333/Karin/compare/web-v1.3.3...web-v1.4.0) (2025-02-14)
+
+
+### ✨ Features
+
+* 插件市场 ([b9b0504](https://github.com/lingdu2333/Karin/commit/b9b050426ebef23cda064051f24eafa0c84f277b))
+* 新增web沙盒 插件管理 插件市场 插件配置 框架配置 ([#251](https://github.com/lingdu2333/Karin/issues/251)) ([26483ae](https://github.com/lingdu2333/Karin/commit/26483aedd0cbe1f99bce98d82cc7483ca281c4d2))
+
+
+### 🐛 Bug Fixes
+
+* ... ([3693919](https://github.com/lingdu2333/Karin/commit/3693919f5c7c1e55c59cf71a363b613606838fe3))
+* build error ([9dcc692](https://github.com/lingdu2333/Karin/commit/9dcc692227cd60307b0850f836755c37f66bb22c))
+* components ([edeccdc](https://github.com/lingdu2333/Karin/commit/edeccdc2d43797086c890cec0d0a8ef18775aef8))
+* web config ([3ed39a0](https://github.com/lingdu2333/Karin/commit/3ed39a095978cca055415c67e1fae21388df3c09))
+* web plugins ([cf0d0e0](https://github.com/lingdu2333/Karin/commit/cf0d0e02d0025cdc7dce124820076bfc0204b01b))
+* webui login ([79f4d52](https://github.com/lingdu2333/Karin/commit/79f4d52a97670454dc983953fa2c9b7530e75f19))
+* webui login ([#257](https://github.com/lingdu2333/Karin/issues/257)) ([31263c8](https://github.com/lingdu2333/Karin/commit/31263c850325bf2c6009ffc27b113100dda2f004))
+* 修复手风琴 更改插件卡片最多显示2个头像 ([116d348](https://github.com/lingdu2333/Karin/commit/116d3484c481ce442e7baa738a28eb01ea735916))
+* 修复组件渲染 ([951e4b8](https://github.com/lingdu2333/Karin/commit/951e4b8628eef75ef62141b8fbbab05492dec5ed))
+* 删除无效文件 ([52b54c1](https://github.com/lingdu2333/Karin/commit/52b54c1061113327c8c52690d938855d866e3525))
+* 单选框默认值 ([2bc2935](https://github.com/lingdu2333/Karin/commit/2bc29357dfb45b95618e320a12d339bed7b68055))
+* 唯一key ([efaadbb](https://github.com/lingdu2333/Karin/commit/efaadbbad81b41417a2fa23b84dd229abb41e351))
+* 增加单选框、复选框组件，修正组件渲染错误 ([edeccdc](https://github.com/lingdu2333/Karin/commit/edeccdc2d43797086c890cec0d0a8ef18775aef8))
+* 插件列表缓存 ([009ec94](https://github.com/lingdu2333/Karin/commit/009ec947b29578f856b1bc29cd756ba369e92e6c))
+* 普通手风琴的样式 ([07aebfe](https://github.com/lingdu2333/Karin/commit/07aebfe1b35afd87fd992d51eba676b2c519d13d))
+* 给予一个默认值 ([1146c3f](https://github.com/lingdu2333/Karin/commit/1146c3fb8e5ee9ade4c794cdec9ebc7f6f6fa4be))
+* 重命名插件页面 ([b54f5e2](https://github.com/lingdu2333/Karin/commit/b54f5e28dcd3f6f4114c1442cea2b0aea82a5e6b))
+
+
+### 💄 Styles
+
+* 插件列表样式 ([5876832](https://github.com/lingdu2333/Karin/commit/587683293315d40704210e2bdfa3565e49ae7d1f))
+* 插件卡片样式微调 ([da3e387](https://github.com/lingdu2333/Karin/commit/da3e38754dc98e4382533c29f856c97f999adf50))
+* 登录页面样式 ([1081bb2](https://github.com/lingdu2333/Karin/commit/1081bb2f1ad0f88f900bb3261d17c8f58fbedf05))
+
+
+### 🎫 Chores
+
+* **deps-dev:** bump vite from 6.0.7 to 6.0.9 ([#249](https://github.com/lingdu2333/Karin/issues/249)) ([ddac004](https://github.com/lingdu2333/Karin/commit/ddac0047167fa3da2633f3b5004c09fbb320efc4))
+* release main ([#250](https://github.com/lingdu2333/Karin/issues/250)) ([b51de2b](https://github.com/lingdu2333/Karin/commit/b51de2beee7fbf407d019db82ae1a20976fd1507))
+* release main ([#254](https://github.com/lingdu2333/Karin/issues/254)) ([264c0aa](https://github.com/lingdu2333/Karin/commit/264c0aa2ddeb6a8be1d6385e8680b548d8447d64))
+* release main ([#256](https://github.com/lingdu2333/Karin/issues/256)) ([6aacdc3](https://github.com/lingdu2333/Karin/commit/6aacdc34e9fab343b6ff7b9e4a36352ff513bd50))
+* release main ([#262](https://github.com/lingdu2333/Karin/issues/262)) ([cb4b713](https://github.com/lingdu2333/Karin/commit/cb4b7130cce481ca0cb0b54a0764c0e83b76c432))
+
 ## [1.3.3](https://github.com/KarinJS/Karin/compare/web-v1.3.2...web-v1.3.3) (2025-02-14)
 
 
